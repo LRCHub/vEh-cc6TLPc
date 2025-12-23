@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "オルゴールの魔法",
+  "base_artist": "Shinsei kamattechan",
+  "createdAt": "2025-12-23T21:52:32.800556Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オルゴールの魔法",
+      "artist": "神聖かまってちゃん",
+      "has_synced": false,
+      "path": "select/pl_01_オルゴールの魔法_神聖かまってちゃん.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "オルゴールの魔法",
+      "artist": "神聖かまってちゃん",
+      "has_synced": false,
+      "path": "select/pl_02_オルゴールの魔法_神聖かまってちゃん.txt"
+    }
+  ]
+}
